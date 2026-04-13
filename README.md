@@ -1,6 +1,6 @@
 # LLM Architecture Inspector
 
-I built this because I kept hearing terms like "attention heads", "hidden size", and "parameter count" without really understanding what they meant visually. So I made a tool that lets you actually see inside any language model — like opening Chrome DevTools but for an AI.
+I built this because I kept hearing terms like "attention heads", "hidden size", and "parameter count" without really understanding what they meant visually. So I made a tool that lets you actually see inside any language model 
 
 ## What it does
 
@@ -34,7 +34,7 @@ You'll need a model downloaded locally. I used Phi-2 from HuggingFace:
 ## How to use it
 
 1. Run `streamlit run app.py`
-2. In the sidebar, paste your local model path (e.g. `D:\models\phi-2`)
+2. In the sidebar, paste your local model path )
 3. Click **Inspect Model**
 4. Explore the 4 tabs: Summary, DOM Tree, Parameter Shapes, Charts
 
